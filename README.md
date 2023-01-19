@@ -1,6 +1,6 @@
 # 本项目基于勇哥的xray项目修改而来
 ## 默认Xui路径：域名/xxxui  默认xui用户名密码都是admin
-## github拉取过数据后到Volumes页面添加一个新的Volume，标题随意，挂载到main，挂载路径/etc/x-ui/
+## github拉取过数据后到Volumes页面添加一个新的Volume，标题随意，挂载到main，挂载路径/etc/x-ui/,然后就可以启动了
 
 
 #### 唯一注意的是一定要随便改个项目名称
